@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi, I am Tony Tran
+- 📫 How to reach me: ...
 
 <!--
-**TonyBTran2003/TonyBTran2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TonyB Tran2003/TonyBTran2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
