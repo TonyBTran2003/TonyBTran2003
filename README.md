@@ -1,6 +1,8 @@
-## Hi, I am Tony Tran
-- 📫 How to reach me: ...
-
+## About Me
+- 👋 My name is Tony Tran
+- 📫 You can reach me at tonybtran2003@gmail.com
+- 🎓 I'm currently enrolled in a master's degree in Electrical and Computer Engineering at SDSU.
+- 🚀 Interested in backend engineering, distributed systems, AI, and computer networks.
 <!--
 **TonyB Tran2003/TonyBTran2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
